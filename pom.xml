@@ -11,8 +11,8 @@
 
 
 	<scm>
-		<connection>scm:git:git@localserver:/home/sudarsan/nexus-practice/proj.git</connection>
-		<developerConnection>scm:git:git@localserver:/home/sudarsan/nexus-practice/proj.git</developerConnection>
+		<connection>scm:git:git@localserver:/home/sudarsan/nexus-practice/proj</connection>
+		<developerConnection>scm:git:git@localserver:/home/sudarsan/nexus-practice/proj</developerConnection>
 		<tag>proj-0.0.1-RELEASE</tag>
 	</scm>
 
