@@ -3,7 +3,7 @@
 
 	<groupId>com.siva</groupId>
 	<artifactId>proj</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>proj</name>
@@ -11,9 +11,9 @@
 
 
 	<scm>
-		<connection>scm:git:git@localserver:/home/sudarsan/nexus-practice/proj</connection>
-		<developerConnection>scm:git:git@localserver:/home/sudarsan/nexus-practice/proj</developerConnection>
-		<tag>proj-0.0.1</tag>
+		<connection>scm:git:sudarsan@localserver:/home/sudarsan/nexus-practice/proj</connection>
+		<developerConnection>scm:git:sudarsan@localserver:/home/sudarsan/nexus-practice/proj</developerConnection>
+		<tag>HEAD</tag>
 	</scm>
 
 	<distributionManagement>
